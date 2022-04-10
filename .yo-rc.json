@@ -1,0 +1,17 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.14.0",
+    "libraryName": "custom-button-publicar",
+    "libraryId": "7ca6fbb4-5f83-45eb-a3a0-1f9242cc3010",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "custom-button-publicar",
+    "solutionShortDescription": "custom-button-publicar description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "extension",
+    "extensionType": "ListViewCommandSet"
+  }
+}
